@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rohit Singh Chouhan  
 
 💻 I’m a full stack developer passionate about **backend systems, APIs, and scalable applications**.  
-🎓 Engineering student at [Your College Name]  
+🎓 Engineering student at Gyan Ganga Institute of Technology and Sciences  
 🚀 Currently working on **MediBase – Healthcare Record Management System**  
 
 ---
