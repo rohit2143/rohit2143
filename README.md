@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-- 🌱 I’m learning **MERN Stack & DevOps**
+- 🌱 I’m learning **SpringBoot & DevOps**
 - 🤝 Open to collaborating on exciting projects  
 - ⚡ Fun fact: I enjoy solving real-world problems with code  
 
