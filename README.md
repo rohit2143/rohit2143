@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Rohit Singh Chouhan  
 
-💻 I’m a full stack developer passionate about **backend systems, APIs, and scalable applications**.  
-🎓 Engineering student at Gyan Ganga Institute of Technology and Sciences  
-🚀 Currently working on **MediBase – Healthcare Record Management System**  
+💻 Backend-focused software developer with strong interest in **scalable systems, REST APIs, and problem solving**.  
+🎓 Engineering student at **Gyan Ganga Institute of Technology and Sciences**  
+🚀 Currently building **MediBase – Healthcare Record Management System**  
 
 ---
 
 ## 🌟 About Me
-- 🌱 I’m learning **SpringBoot & DevOps**
-- 🤝 Open to collaborating on exciting projects  
-- ⚡ Fun fact: I enjoy solving real-world problems with code  
+- 🌱 Learning **Spring Boot, Backend Architecture & DevOps basics**
+- 🧠 Strong foundation in **DSA and Java**
+- 🤝 Open to collaborating on backend & full-stack projects
+- ⚡ I enjoy turning real-world problems into clean backend solutions
 
 ---
 
@@ -19,18 +20,39 @@
 
 ---
 
+## 🧠 Problem Solving Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_rohit1020/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_rohit1020)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/band_hope_74)
+
+---
+
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit2143&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit2143&layout=compact&theme=radical)
+## 📌 Featured Projects
+- 🏥 **MediBase** – Healthcare Record Management System  
+  Secure backend APIs for managing patient history and treatment data  
 
----
+- 💬 **Real-Time Chat Application**  
+  Spring Boot + WebSocket based messaging system  
