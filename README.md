@@ -2,7 +2,7 @@
 
 💻 Backend-focused software developer with strong interest in **scalable systems, REST APIs, and problem solving**.  
 🎓 Engineering student at **Gyan Ganga Institute of Technology and Sciences**  
-🚀 Currently building **LocoMap – Railway Station Navigation System**  
+🚀 Currently building **Spendy – Monthly Expense Tracker**  
 
 ---
 
