@@ -23,7 +23,6 @@
 ## 🧠 Problem Solving Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_rohit1020/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_rohit1020)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/band_hope_74)
 
 ---
 
@@ -51,8 +50,13 @@
 ---
 
 ## 📌 Featured Projects
-- 🏥 **MediBase** – Healthcare Record Management System  
-  Secure backend APIs for managing patient history and treatment data  
 
+- 💸 **Spendy – Expense Tracker Backend**  
+  Secure expense management backend built with Spring Boot, Spring Security, JWT, and PostgreSQL
+
+- 🚪 **GateSync – Smart Entry System**  
+  QR-based smart entry management system with real-time validation, REST APIs, and optimized database handling for large-scale entry logs
+  
 - 💬 **Real-Time Chat Application**  
-  Spring Boot + WebSocket based messaging system  
+  Real-time messaging platform using Spring Boot, WebSocket (STOMP), MongoDB, React, and Docker with room-based communication support  
+
